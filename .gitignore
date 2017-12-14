@@ -1,0 +1,4 @@
+inc/config.php
+boxfile.yml
+vendor
+vendor/**
