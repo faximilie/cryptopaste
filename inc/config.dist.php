@@ -1,10 +1,13 @@
 <?php
 define("INSTALLED", false);
 
-define("db:host", "db:host");
-define("db:port", "db:port");
-define("db:user", "db:user");
-define("db:pass", "db:pass");
+define("DB_HOST", "db:host");
+define("DB_PORT", "db:port");
+define("DB_USER", "db:user");
+define("DB_PASS", "db:pass");
+define("DB_CHAR", "utf8mb4");
 
-define("www:host", "www:host");
+define("WWW_HOST", "www:host");
+
+
 ?>
